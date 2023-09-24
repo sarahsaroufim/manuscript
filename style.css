@@ -1,0 +1,512 @@
+
+a:link {color: rgb(255, 184, 0)}
+a:hover { color: rgb(255, 122, 0)}
+a:active { color: rgb(232, 0, 0)}
+
+
+#shortcut-buttons
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    width: 250px;
+    font-size: 17.5px;
+}
+
+
+#letters-from
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    width: 620px;
+    font-size: 24px;
+    line-height: 122.5%;
+}
+
+
+#the-temp-state
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+h1
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 203px;
+    letter-spacing: -0.035em;
+}
+
+
+#written-by
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    width: 620px; 
+    font-size: 20px;
+}
+
+
+#author
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* 
+    i  wanted to use the Avenir Next apostrophes here in yellow for the blockquote but i can't find a link for that font :( + i don't know how to make things overlap yet <3
+*/
+
+#you-should-start
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size: 34px;
+    line-height: 36px;
+    width: 620px;
+}
+
+
+#friendly-advice
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+}
+
+
+h3
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 24px;
+    letter-spacing: -0.035em;
+    width: 624px;
+}
+
+
+#is-it-really-necessary
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.5px;
+    line-height: 141%;
+    width: 624px;
+}
+
+
+#filippo-marinetti-quote
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 24px;
+    width: 839px;
+    line-height: 180%;
+    letter-spacing: -0.01em;
+}
+
+
+#filippo-marinetti
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
+
+/* yellow "." highlight on each superscript */
+
+#sup-1
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 14px;
+}
+
+/* 
+    in my figma sketch, these annotations are in the right margin, inside a big yellow period "."
+*/
+
+#big-sup-1
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 18px;
+    color: rgb(255, 184, 0);
+}
+
+
+#annotation-1
+{
+    font-family: "source-serif-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    width: 172px;
+    line-height: 140%;
+    font-size: 12.1px;
+    letter-spacing: 0.005em;
+}
+
+
+#typographic-revolution
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.5px;
+    line-height: 141%;
+    width: 624px;
+}
+
+
+#slanted-1
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.5px;
+    line-height: 141%;
+    width: 624px;
+}
+
+
+#sup-2
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 14px;
+}
+
+
+#big-sup-2
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 18px;
+    color: rgb(255, 184, 0);
+}
+
+
+#annotation-2
+{
+    font-family: "source-serif-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    width: 172px;
+    line-height: 140%;
+    font-size: 12.1px;
+    letter-spacing: 0.005em;
+}
+
+
+#slanted-2
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.5px;
+    line-height: 141%;
+    width: 624px;
+}
+
+
+#sup-3
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 14px;
+}
+
+
+#big-sup-3
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    font-size: 18px;
+    color: rgb(255, 184, 0);
+}
+
+
+#annotation-3
+{
+    font-family: "source-serif-pro", serif;
+    font-weight: 400;
+    font-style: normal;
+    width: 172px;
+    line-height: 140%;
+    font-size: 12.1px;
+    letter-spacing: 0.005em;
+}
+
+
+#there-are-a-lot-of
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 24px;
+    width: 839px;
+    line-height: 180%;
+    letter-spacing: -0.01em;
+}
+
+
+#slanted-3
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.5px;
+    line-height: 141%;
+    width: 624px;
+}
+
+
+#international-italic-style
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.5px;
+    line-height: 141%;
+    width: 624px;
+}
+
+
+h4
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 24px;
+    letter-spacing: -0.035em;
+    width: 624px;
+}
+
+/* 
+    yeah i also wanted to use little black Avenir Next apostrophes here instead of the bullets
+*/
+
+#other-updates
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.5px;
+    line-height: 141%;
+    width: 408px;
+}
+
+
+#changes-list
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.5px;
+    line-height: 140.5%;
+    width: 350px;
+}
+
+
+#update
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.5px;
+    line-height: 141%;
+    width: 408px; 
+}
+
+
+#footer-1
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.5px;
+    line-height: 141%;
+    width: 408px;
+}
+
+
+#roman-gornitsky-sign
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+h2
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 163px;
+    letter-spacing: -0.035em;
+    line-height: 76.1%;
+}
+
+
+#re
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    color: rgb(255, 184, 0);
+}
+
+
+#thoughts-from-me
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    width: 620px; 
+    font-size: 20px;
+}
+
+
+#my-name
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+#are-we-trying
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 89.6%;
+    letter-spacing: 0.11em;
+    width: 620px;
+}
+
+
+#me-right-now
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    letter-spacing: 0px;
+}
+
+
+#my-text-1
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.5px;
+    width: 624px;
+    line-height: 140.5%;
+}
+
+
+#callout-1
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    width: 624px;
+    line-height: 140.5%;
+}
+
+
+#my-text-2
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.5px;
+    width: 624px;
+    line-height: 140.5%;
+}
+
+
+#callout-2
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    width: 624px;
+    line-height: 140.5%;
+}
+
+
+#my-text-3
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.5px;
+    width: 624px;
+}
+
+#need
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+#claim
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+
+footer
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 17.5px;
+    width: 624px;
+    line-height: 140.5%;
+}
+
+#my-signoff
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 140.5%;
+}
+
+
+#top-button
+{
+    font-family: franklin-gothic-atf, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+}
